@@ -1,6 +1,5 @@
-# SpringMVC
-### Commmencer avec Spring MVC
-# Introduction
+# SpringMVC 
+## Introduction
 
 ## Conteneur Léger ?
 
