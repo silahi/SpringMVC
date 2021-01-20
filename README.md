@@ -1,5 +1,7 @@
 # SpringMVC 
+#Travailler avec spring sans fichiers de configuration ni descripteur de déploiement
 ## Introduction
+
 
 ## Conteneur Léger ?
 
